@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="/">
+    <file>PicResource/Button04.png</file>
+    <file>PicResource/Plate.png</file>
+    <file>PicResource/Iconly/Light-outline/Paper.png</file>
+    <file>PicResource/Group 28.png</file>
+    <file>PicResource/Iconly/Iconly/Iconly/Light-outline/Close Square.png</file>
+    <file>PicResource/Iconly/Iconly/Light-outline/Edit Square.png</file>
+    <file>PicResource/Iconly/Iconly/Light-outline/Plus.png</file>
+    <file>PicResource/Rectangle 11.png</file>
+    <file>PicResource/Train02.png</file>
+    <file>PicResource/Arrow - Down 2.png</file>
+    <file>PicResource/Rectangle 9.png</file>
+    <file>PicResource/Group 1.png</file>
+    <file>PicResource/Search.png</file>
+    <file>PicResource/Line02.png</file>
+    <file>PicResource/Train01.png</file>
+    <file>PicResource/Vector.png</file>
+    <file>PicResource/Text01.png</file>
+    <file>PicResource/Rectangle 7.png</file>
+    <file>PicResource/Iconly/Light-outline/Plus.png</file>
+    <file>PicResource/Rectangle 4.png</file>
+    <file>PicResource/TTT.png</file>
+    <file>Rectangle 6.png</file>
+    <file>PicResource/Line 1.png</file>
+    <file>PicResource/Rectangle 4.png</file>
+  </qresource>
+</RCC>

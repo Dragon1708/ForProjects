@@ -1,0 +1,13 @@
+QFrame
+{
+position: absolute;
+width: 909px;
+height: 919px;
+left: 110px;
+top: 909px;
+
+background: #EDEFF3;
+box-shadow: 20px 4px 6px rgba(0, 0, 0, 0.25);
+border-radius: 79px;
+transform: rotate(-90deg);
+}
